@@ -5,3 +5,6 @@ You have the choice to insert it directly into the mySQL database at the ID prov
 
 You must have Intellij or some IDE that is configured to run both mySQL, and javaFX; If you don't the program will fail to work properly, and you need to modify a couple of fields as well, those being DB_URL, DB_USER, and DB_PASSWORD.
 Then lines 111, 136, and 157 they contain exercise34_01.userdata(schema_name.table_name) inside those lines and that is just the schema.table, configure those so the program properly works when running it yourself.
+
+
+The location of the source code is Exercise34_01 folder -> src/main -> java/com/example/exercise34_01 -> AccessUpdateStaff.java
